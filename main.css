@@ -27,13 +27,13 @@ body {
   color: #2979ff;
 }
 
-.social-network-list {
+.social-networks-list {
  width: 80%;
 margin-left: 10%;
  margin-right: 10%;
+
 }      
 .social-container {
- display: block;
  background-color: transparent;
  border: 2px solid #ccc;
  border-radius: 8px;
