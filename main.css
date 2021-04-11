@@ -26,3 +26,23 @@ body {
   background-color: #424242;
   color: #2979ff;
 }
+
+.social-media-container {
+ background-color: transparent;
+ border: 2px solid #ccc;
+ border-radius: 8px;
+}
+.social-media-title {
+ display: inline-block;
+ float: left;
+}
+
+.social-media-link {
+float: right;
+display: inline-block;
+ color: #fff;
+ text-decoration: none;
+}
+.social-media-link:hover {
+ text-decoration: underline;      
+}
